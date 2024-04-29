@@ -1,3 +1,5 @@
+[https://trojanonsolana.github.io]
+
 The Solana ecosystem is rapidly emerging as a powerhouse in the realm of blockchain technology, offering high-speed, low-cost transactions and a vibrant community of developers and projects. With the burgeoning growth of Solana, the need for robust tools and platforms to navigate its landscape efficiently becomes imperative. Enter the Trojan for Solana Bot – a comprehensive solution tailored to enhance user experience and optimize performance within the Solana ecosystem.
 
 Understanding the Trojan for Solana Bot
